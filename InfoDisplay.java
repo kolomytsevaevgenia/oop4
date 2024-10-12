@@ -1,0 +1,3 @@
+interface InfoDisplay {
+    void displayInfo();
+}
